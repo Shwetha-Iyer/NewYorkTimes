@@ -1,0 +1,26 @@
+.a-size{
+    font-size:20px;
+}
+.nav-scroller .nav {
+    flex-wrap: nowrap;
+    padding-bottom: 1rem;
+    margin-top: -1px;
+    overflow-x: auto;
+    text-align: center;
+    white-space: nowrap;
+}
+p{
+    font-size: 18px;
+}
+.card-abstract{
+    margin-top: 10px;
+}
+.continueReading{
+    font-style: italic;
+}
+.img-thumbnail{
+    height:300px;
+}
+.section-card{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
